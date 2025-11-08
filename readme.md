@@ -13,7 +13,7 @@ It is recommended to make a copy of your source file, rename it something with "
 
 # Troubleshooting
 If you want to confirm the before & after files are correct, do the following (on Windows):  
-- Open Windows Explorer, navigate to the folder where your RM7 ROMs are  
+- Open Windows Explorer, navigate to the folder where your R&F ROMs are  
 - Shift + Right Click > "Open PowerShell window here"  
 - In Powershell, use the following command, substituting the [file] with your file name: `CertUtil -hashfile '[file]' md5`  
 - The source file should return the following hash: `55d9cdb05f53a3f7a5e3eacb81b28f09`  
