@@ -8,7 +8,7 @@ Features:
 # Usage
 ** UPDATE YOUR EMULATORS TO THE LATEST VERSION!! **  
 Use Lunar IPS to apply rmf_bingo.ips to a Rockman & Forte (J) ROM.  
-It is recommended to make a copy of your source file, rename it something with "bingo" in the name, then apply the IPS patch to that file. 
+It is recommended to make a copy of your source file, rename it something with "bingo" in the name, then apply the IPS patch to that file.  
 ** UPDATE YOUR EMULATORS TO THE LATEST VERSION!! **  
 
 # Troubleshooting
